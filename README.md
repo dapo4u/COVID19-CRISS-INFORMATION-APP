@@ -9,4 +9,4 @@ The chatbot that I made helps to solve the following PROBLEMS
 (4)The chatbot can be used to get get first hand information about the total confirm cases of coronavirus diesesa and the number of deaths due to Covid19 disease in the world and also in any country 
 
 
-Step 1. From the IBM Cloud catalog, provision an an instance of Watson Assistant.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/1.png)
+Step 1. From the IBM Cloud catalog, provision an instance of Watson Assistant.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/1.png)
