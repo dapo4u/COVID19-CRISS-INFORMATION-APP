@@ -10,3 +10,13 @@ The chatbot that I made helps to solve the following PROBLEMS
 
 
 Step 1. From the IBM Cloud catalog, provision an instance of Watson Assistant.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/1.png)
+
+
+Step 2. Launch the Watson Assistant service.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/2.png)
+
+Step 3 . Click Add Dialog skill to add this to your assistant ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/3.png)
+
+
+Step 4. Click Import skill > Choose JSON file and import the TRAINED skill-DAPO-COVID-FAQ .json file.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/4.png)
+
+Step 5  Go back to your dialog skill and click on the Preview Link button on the side to get a link to test and verify your assistant.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/5.png)
