@@ -7,4 +7,5 @@ The chatbot that I made helps to solve the following PROBLEMS
 (2)The chatbot EDUCATEs people on the mode of transmission of the Covid19 disease and the prevention tips
 (3)The chatbot gives FIRST HAND information about the disease, 
 (4)The chatbot can be used to get get first hand information about the total confirm cases of coronavirus diesesa and the number of deaths due to Covid19 disease in the world and also in any country 
-U
+![Image of Yat](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/1.png)
+
