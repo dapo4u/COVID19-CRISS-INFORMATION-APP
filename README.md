@@ -39,4 +39,4 @@ I MADE A NODERED  APPLICATION THAT TRACKS THE COVID19 DISEASE IN THE USA PLS VIS
 This shows the line charts for USA and the NEW YORK CITY ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/B.png )![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/E.png) ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/F.png)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6E01A1v-foE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+[![](http://img.youtube.com/vi/6E01A1v-foE/0.jpg)](http://www.youtube.com/watch?v=6E01A1v-foE "")
