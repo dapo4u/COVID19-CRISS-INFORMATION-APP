@@ -21,4 +21,4 @@ Step 4. Click Import skill > Choose JSON file and import the TRAINED skill-DAPO-
 
 Step 5  Go back to your dialog skill and click on the Preview Link button on the side to get a link to test and verify your assistant.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/5.png)
 
-Step 6 Click on the preview link url and explore the menu of commnads .My chatbot is UNIQUE because I provided a menu of  commands so that the user of the chatbot will find it easy to search contents embedded in the chatbot
+Step 6 Click on the preview link url and explore the menu of commnads .My chatbot is UNIQUE because I provided a menu of  commands so that the user of the chatbot will find it easy to search contents embedded in the chatbot ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/15.png)
