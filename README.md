@@ -42,4 +42,8 @@ This shows the line charts for USA and the NEW YORK CITY ![Image ](https://githu
 
 suggest_embed("https://youtu.be/uV4UpCq2azs?t=1m32s")
 #> embed_youtube("uV4UpCq2azs") %>%
+
+
+[![](http://img.youtube.com/vi/ibJR-gJV9e4/0.jpg)](http://www.youtube.com/watch?v=ibJR-gJV9e4 "")
+Preview
 #>   use_start_time("1m32s")
