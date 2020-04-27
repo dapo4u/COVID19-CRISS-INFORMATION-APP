@@ -27,3 +27,14 @@ PROBLEMS SOLVED BY THE CHATBOT
 (1)My chattbot solved the problem of ambiguation and wrong spelling as experienced by users from other chatbots.I solved this problem by providing the user with a menu of commands so that the user will be guided on the correct spellings of words that the chatbot can rescognize and respond to.
 (2)My chatbot  gives FIRST HAND information about the covid-19 disease,for example in my country Nigeria,there were fears and debate over whether  it is risky or not to attend the burial of the former chief of staff to the president of Nigeria.I told them that they should check my chatbot and they should the   word funeral and the chatbot responded that its not risky to touch the body of a dead covid-19 person or to attend the funeral of that poerson.
 (3)My chatbot also gives the information about the total number of confirmed cases and deaths in the world and in a country ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/16.png)
+
+The chatbot was deployed to other channels
+(1)TELEGRAM :the mobile link is https://t.me/npower_edutainment_chatbot, for the web,first login into telegram via https://web.telegram.org,the sms containing the code will be sent into the telegram app of your phone ,enter the code so as to sign into the telegram desktop version,then proceed and visit my chatbot at https://web.telegram.org/?fbclid=IwAR0LJIDIeQywr81yRvnXyWG4XugRC4scbhHfjjXFiVIbK5z0vSnw4SEk7og#/im?p=@npower_edutainment_chatbot,  ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/21.png)  ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/21.png)  ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/22.png)
+
+(2)FACEBOOK:visit m.facebook.com LOGIN details  phone number is 08116400565 password is ola2nj visit https://m.facebook.com/messages/read/?tid=cid.c.100042544773731%3A102871524472314&entrypoint=web%3Atrigger%3Athread_list_thread and type Hi,then the chatbot will respond
+(3)PREVIEW URL LINK:https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/c3d23dfd-80d9-4546-a565-1bb4971175f8
+(4) SLACK:   ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/18.png)
+OTHERS WORKS BY ME ARE
+I MADE A NODERED  APPLICATION THAT TRACKS THE COVID19 DISEASE IN THE USA 
+
+
