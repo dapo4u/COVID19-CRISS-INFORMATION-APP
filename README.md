@@ -35,6 +35,7 @@ The chatbot was deployed to other channels
 (3)PREVIEW URL LINK:https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/c3d23dfd-80d9-4546-a565-1bb4971175f8
 (4) SLACK:   ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/18.png)
 OTHERS WORKS BY ME ARE
-I MADE A NODERED  APPLICATION THAT TRACKS THE COVID19 DISEASE IN THE USA 
+I MADE A NODERED  APPLICATION THAT TRACKS THE COVID19 DISEASE IN THE USA PLS VISIT THE URL AT https://node-red-afdct.eu-gb.mybluemix.net/ui/#!/0?socketid=7qbY0EuJW64rVQV2AAAt
+This shows the line charts for USA and the NEW YORK CITY ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/B.png ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/E.png ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/F.png
 
 
