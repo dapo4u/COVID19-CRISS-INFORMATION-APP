@@ -22,4 +22,8 @@ Step 4. Click Import skill > Choose JSON file and import the TRAINED skill-DAPO-
 Step 5  Go back to your dialog skill and click on the Preview Link button on the side to get a link to test and verify your assistant.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/5.png)
 
 Step 6 Click on the preview link url and explore the menu of commnads .My chatbot is UNIQUE because I provided a menu of  commands so that the user of the chatbot will find it easy to search contents embedded in the chatbot ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/15.png)
-The user types the commands one at a time, so that the chatbot can respond.the user can also search for other things through the use of watson discovery
+The user types the commands one at a time, so that the chatbot can respond.the user can also search for other things through the use of watson discovery,example of the command are WHO FAQ1,Animal contact
+PROBLEMS SOLVED BY THE CHATBOT
+(1)My chattbot solved the problem of ambiguation and wrong spelling as experienced by users from other chatbots.I solved this problem by providing the user with a menu of commands so that the user will be guided on the correct spellings of words that the chatbot can rescognize and respond to.
+(2)My chatbot  gives FIRST HAND information about the covid-19 disease,for example in my country Nigeria,there were fears and debate over whether  it is risky or not to attend the burial of the former chief of staff to the president of Nigeria.I told them that they should check my chatbot and they should the   word funeral and the chatbot responded that its not risky to touch the body of a dead covid-19 person or to attend the funeral of that poerson.
+(3)My chatbot also gives the information about the total number of confirmed cases and deaths in the world and in a country ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/16.png)
