@@ -38,3 +38,8 @@ The chatbot was deployed to other channels
 OTHERS WORKS BY ME ARE
 I MADE A NODERED  APPLICATION THAT TRACKS THE COVID19 DISEASE IN THE USA PLS VISIT THE URL AT https://node-red-afdct.eu-gb.mybluemix.net/ui/#!/0?socketid=7qbY0EuJW64rVQV2AAAt
 This shows the line charts for USA and the NEW YORK CITY ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/B.png )![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/E.png) ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/F.png)
+
+
+suggest_embed("https://youtu.be/uV4UpCq2azs?t=1m32s")
+#> embed_youtube("uV4UpCq2azs") %>%
+#>   use_start_time("1m32s")
