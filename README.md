@@ -34,7 +34,7 @@ The chatbot was deployed to other channels
 
 (2)FACEBOOK:visit m.facebook.com LOGIN details  phone number is 08116400565 password is ola2nj visit https://m.facebook.com/messages/read/?tid=cid.c.100042544773731%3A102871524472314&entrypoint=web%3Atrigger%3Athread_list_thread and type Hi,then the chatbot will respond
 (3)PREVIEW URL LINK:https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/c3d23dfd-80d9-4546-a565-1bb4971175f8
-(4) SLACK:   ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/18.png)
+(4) SLACK:  #Visit https://join.slack.com/t/daporaphael/shared_invite/zt-dx6sf1xh-38H1vRjokntF72KbxKOOUQ ,sign into my workspace and click on Direct messages ,search for  covid19_app_by_raphae       ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/18.png
 OTHERS WORKS BY ME ARE
 I MADE A NODERED  APPLICATION THAT TRACKS THE COVID19 DISEASE IN THE USA PLS VISIT THE URL AT https://node-red-afdct.eu-gb.mybluemix.net/ui/#!/0?socketid=7qbY0EuJW64rVQV2AAAt
 This shows the line charts for USA and the NEW YORK CITY ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/B.png )![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/E.png) ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/F.png)
