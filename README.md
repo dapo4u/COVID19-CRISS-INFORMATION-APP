@@ -9,10 +9,13 @@ The chatbot that I made helps to solve the following PROBLEMS
 (4)The chatbot can be used to get get first hand information about the total confirm cases of coronavirus diesesa and the number of deaths due to Covid19 disease in the world and also in any country 
 
 
-Step 1. From the IBM Cloud catalog, provision an instance of Watson Assistant.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/1.png)
+Step 1. From the IBM Cloud catalog, provision an instance of Watson Assistant.
+
+![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/1.png)
 
 
-Step 2. Launch the Watson Assistant service.![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/2.png)
+Step 2. Launch the Watson Assistant service.
+![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/2.png)
 
 Step 3 . Click Add Dialog skill to add this to your assistant ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/3.png)
 
@@ -30,13 +33,13 @@ PROBLEMS SOLVED BY THE CHATBOT
 (4)My chatbot contains phone numbers of local police officers(these phone numbers can be gotten from the menu of commands) who can be called upon whenever a local armed robbery gang called the ONE MILLION BOYS tries to rob  law-abiding citizens of their valuables during the FG of Nigeria LOCKDOWN ORDER in response to the covid-19 pandemic,this is why my chatbot is a criss communication manager
 
 The chatbot was deployed to other channels
-(1)TELEGRAM :the mobile link is https://t.me/npower_edutainment_chatbot, for the web,first login into telegram via https://web.telegram.org,the sms containing the code will be sent into the telegram app of your phone ,enter the code so as to sign into the telegram desktop version,then proceed and visit my chatbot at https://web.telegram.org/?fbclid=IwAR0LJIDIeQywr81yRvnXyWG4XugRC4scbhHfjjXFiVIbK5z0vSnw4SEk7og#/im?p=@npower_edutainment_chatbot,  ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/21.png)  ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/21.png)  ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/22.png)
+(1)TELEGRAM :the mobile link is https://t.me/npower_edutainment_chatbot, for the web,first login into telegram via https://web.telegram.org the sms containing the code will be sent into the telegram app of your phone ,enter the code so as to sign into the telegram desktop version,then proceed and visit my chatbot at https://web.telegram.org/?fbclid=IwAR0LJIDIeQywr81yRvnXyWG4XugRC4scbhHfjjXFiVIbK5z0vSnw4SEk7og#/im?p=@npower_edutainment_chatbot,    ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/21.png)    ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/21.png)  ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/22.png)
 
 (2)FACEBOOK:visit m.facebook.com LOGIN details  phone number is 08116400565 password is ola2nj visit https://m.facebook.com/messages/read/?tid=cid.c.100042544773731%3A102871524472314&entrypoint=web%3Atrigger%3Athread_list_thread and type Hi,then the chatbot will respond
 (3)PREVIEW URL LINK:https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/c3d23dfd-80d9-4546-a565-1bb4971175f8
 (4) SLACK:  #Visit https://join.slack.com/t/daporaphael/shared_invite/zt-dx6sf1xh-38H1vRjokntF72KbxKOOUQ ,sign into my workspace and click on Direct messages ,search for  covid19_app_by_raphae       ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/18.png)
 OTHERS WORKS BY ME ARE
-I MADE A NODERED  APPLICATION THAT TRACKS THE COVID19 DISEASE IN THE USA PLS VISIT THE URL AT https://node-red-afdct.eu-gb.mybluemix.net/ui/#!/0?socketid=7qbY0EuJW64rVQV2AAAt
+I MADE A NODE-RED  APPLICATION THAT TRACKS THE COVID19 DISEASE IN THE USA, PLS VISIT THE URL AT https://node-red-afdct.eu-gb.mybluemix.net/ui/#!/0?socketid=7qbY0EuJW64rVQV2AAAt
 This shows the line charts for USA and the NEW YORK CITY ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/B.png )![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/E.png) ![Image ](https://github.com/dapo4u/COVID19-CRISS-INFORMATION-APP/blob/master/F.png)
 
 
